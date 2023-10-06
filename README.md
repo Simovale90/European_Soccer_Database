@@ -13,7 +13,7 @@
 <li>team;</li>
 <li>player.</li></p>
 
-<p>First, the size of the `match` dataset was analyzed to verify <b>how many matches</b> and **how many leagues** were present.
+<p>First, the size of the `match` dataset was analyzed to verify <b>how many matches</b> and <b>how many leagues</b> were present.
 
 <p>Subsequently the <b>time range</b> and <b>how many games were played per season</b>.</p>
 
